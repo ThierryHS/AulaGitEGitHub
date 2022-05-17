@@ -1,1 +1,3 @@
 Primeira linha - Aula Git.
+Segunda linha - Aula Git.
+Terceira linha - Aula Git.
